@@ -1,0 +1,28 @@
+ #display {
+     color: aliceblue;
+     background-color: black;
+     font-size: 20px;
+     margin-top: 15px;
+     margin-bottom: 5px;
+
+ }
+
+ .calculator {
+     width: 300px;
+     margin: 0 auto;
+     padding: 20px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+     background-color: rgb(48, 55, 55);
+
+ }
+
+ .buttons {
+     height: 45px;
+     width: 45px;
+     border-radius: 45px;
+     border: none;
+     margin-right: 5px;
+     font-size: 25px;
+     margin: 10px;
+ }
